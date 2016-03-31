@@ -176,7 +176,7 @@ body,td,th {
   </tr>
   <tr>
     <td align="right">&nbsp;</td>
-    <td align="left"><p>帥氣小黑犬 &gt;&lt; :3 <br />
+    <td align="left"><p>帥氣小默 &gt;&lt; :3 <br />
     美麗俞文 &gt;_&lt;&quot;<br />
     可愛維尼 &gt;_O<br />
     煞氣半仙 &lt;3 </p></td>
